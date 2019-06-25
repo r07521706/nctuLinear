@@ -1,6 +1,7 @@
 # nctuLinear 
 ## Lecture1
 [Lec01-簡介](https://www.youtube.com/watch?v=AfY1ak89fwU&list=PLX-rcsgr94FwFmgWimK21VJ9BFefZMIEZ)
+[Lec01 ex](https://github.com/r07521706/nctuLinear/tree/master/lecture1-part2)
 * introuduction
 * 線性函數
     *     高中學的那些都不是ex.f(x) = sin(x)  f(x)=x**2
